@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+.container {
+  max-width: 1630px;
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header__nav{
+  height: 109px;
+  display: flex;
+  align-items: center;
+}
+
+.header__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__left{
+  display: flex;
+  gap: 180px;
+}
+
+.header__list{
+  display: flex;
+  gap: 75px;
+}
+
+.header__right{
+  display: flex;
+  gap: 43px;
+}
