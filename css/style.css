@@ -19,6 +19,8 @@
   height: 109px;
   display: flex;
   align-items: center;
+  color: aquamarine;
+  background: violet;
 }
 
 .header__content {
